@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodeInit">
+    <output-path>$PROJECT_DIR$/build</output-path>
+    <root id="archive" name="CodeInit.jar">
+      <element id="module-output" name="CodeInit" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

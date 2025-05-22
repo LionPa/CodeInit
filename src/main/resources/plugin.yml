@@ -1,0 +1,14 @@
+name: CodeInit
+version: '1.0-SNAPSHOT'
+main: io.lionpa.codeInit.CodeInit
+api-version: '1.21'
+load: STARTUP
+authors: [ LionPa ]
+description: Code auto initialization
+commands:
+  test:
+    description: test command
+    permission: op
+  get:
+    description: test command
+    permission: op
