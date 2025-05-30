@@ -18,7 +18,7 @@ Create `.codeinit` file in your plugin's `resources` folder.
 ### 2. Plugin Registration
 In your main class' `onEnable()` method:
 ```java
-addPlugin("your.plugin.package", this);
+CodeInit.addPlugin("your.plugin.package", this);
 ```
 
 ## 🚀 Usage Guide
